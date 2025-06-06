@@ -27,7 +27,7 @@ export default {
         id: 'hex-fill',
         type: 'fill',
         type: 'fill-extrusion',
-        source: 'hexes',
+        source: 'protomaps',
         paint: {
           'fill-extrusion-color': [
             'case',
