@@ -32,7 +32,7 @@ export default {
       },
       "protomaps": {
           "type": "raster",
-          "url": "pmtiles://https://storage.cloud.google.com/hex-tiles/output.pmtiles",
+          "url": "pmtiles://https://storage.googleapis.com/hex-tiles/output.pmtiles",
       },
   },
   "version": 8,
